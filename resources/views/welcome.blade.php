@@ -38,7 +38,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">2016.11.01</div>
+                <div class="title">2016.6.21</div>
             </div>
         </div>
     </body>
